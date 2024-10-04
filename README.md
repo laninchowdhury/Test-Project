@@ -1,7 +1,7 @@
 # This is my First Project
 
-Sample_project
-Car Listings Analysis Tool
+
+**Car Listings Analysis Tool**
 This project is a tool designed to analyze car listings data. It provides various visualizations to help understand the distribution and relationships within the data. The tool is built using Python and leverages libraries such as pandas, Streamlit, and Plotly Express.
 
 Features
