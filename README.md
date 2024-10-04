@@ -25,3 +25,7 @@ Clone the repository to my local machine.
 Create and activate a virtual environment.
 Install the required libraries using pip.
 Run the Streamlit app and open it in my browser.
+
+You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:10000
